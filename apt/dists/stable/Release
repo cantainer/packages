@@ -1,0 +1,28 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Thu, 12 Nov 2026 21:32:16 +0000
+Description: Cantainer packages
+Label: Cantainer
+Origin: Cantainer
+Suite: stable
+MD5Sum:
+ 1eb89d68f9d3b2b6bcd5e9823cb475a3              857 main/binary-amd64/Packages
+ 8d6d7a31592db0eecde7417766658943              588 main/binary-amd64/Packages.gz
+ aedb5f1a741bc0f5e42f4a0255288b2d              857 main/binary-arm64/Packages
+ d2359e052b1f53c0dc0758ba2a7ffdda              585 main/binary-arm64/Packages.gz
+SHA1:
+ a3a2cf41d3ba076559fcecd85ee56d92560ea14e              857 main/binary-amd64/Packages
+ f892faf03977ab6bb2ba8c87148f95fe74cb4cc6              588 main/binary-amd64/Packages.gz
+ a89f081a1954326f78f20290a01e90be45e6d1c7              857 main/binary-arm64/Packages
+ 5053bb0c3b6850f7e581861e5352bb78f63fa3a5              585 main/binary-arm64/Packages.gz
+SHA256:
+ c614d85047f5f468983f21b6d790babe06e520aeeab10f929dd587992b08e7d8              857 main/binary-amd64/Packages
+ 8a64d9ec79c1b400ade89a99b22de9786e6df74af30a8df3bb4b531d5402d287              588 main/binary-amd64/Packages.gz
+ 70c3202af2ce1404624dd8e7a4106ba6a27b8d464fb92d149c3036b4ffc0fd19              857 main/binary-arm64/Packages
+ 9b24a0d5aa2bd5c5bc22a32538ff14cbf87c1ead86c50c4e168b556ee681f736              585 main/binary-arm64/Packages.gz
+SHA512:
+ 304c114dcad1d3951c474a34c63b91313589b6217c97afa69b9679c749d7959aefc1827ecb946fb018bb2729be339727d2689a27e5c37b0204563dbff3e7085a              857 main/binary-amd64/Packages
+ 431fe3c0254f5913d97a8c672dd17667e8c28e6bd779258993532abf2c84ed13de2ee3eed8e9b6c6b8272f941ffb401a1f4a4633784c0133a803ec8376356e60              588 main/binary-amd64/Packages.gz
+ 3c0904d52f46fee6b3cd7f99bea77ab622e2b00f99f0deecc5d9961c15d63c438e7891fb225d8d9452df365ae10e20379e129502b53b9c3861966725de456d18              857 main/binary-arm64/Packages
+ 4819e25e641ebc0e61817485cdab8397eecdf38e0cc39caa8c2549df47e902fc4526c293366801b041c6bc459567f15da47679331bcba3df562e1e775ad3aed5              585 main/binary-arm64/Packages.gz

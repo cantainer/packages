@@ -1,0 +1,19 @@
+Package: cantainer
+Architecture: arm64
+Version: 0.0.3-1
+Priority: optional
+Section: utils
+Maintainer: Arie Radle <arie.radle@gmail.com>
+Installed-Size: 2208
+Filename: pool/main/cantainer_0.0.3-1_arm64.deb
+Size: 659064
+MD5sum: ce22117202cbfca578a99a1809b220b3
+SHA1: 86c45c06f4aaf46532e770182a50f063361744fa
+SHA256: 7c69e25cb05c698500038e868a3436cf87c04a66fd2401f31100a34af3e06442
+SHA512: 7552e9154a9d8c32a61168f4afed372b6d45c82d59874ccd17501331c0718b389664a4795ac16eae4be6934009fb05e54de27cf38b874b3021f194042ba27658
+Homepage: https://github.com/cantainer/cantainer
+Description: Run every executable as a least-privilege capsule
+ Cantainer runs a program as a "cant": it can touch only what its manifest
+ declares and the files named on its command line. The kernel enforces this
+ with Landlock and seccomp. No daemon, no root. Installs the `cant` command.
+
