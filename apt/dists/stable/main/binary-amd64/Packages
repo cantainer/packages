@@ -17,3 +17,22 @@ Description: Run every executable as a least-privilege capsule
  declares and the files named on its command line. The kernel enforces this
  with Landlock and seccomp. No daemon, no root. Installs the `cant` command.
 
+Package: cantainer
+Architecture: amd64
+Version: 0.0.4-1
+Priority: optional
+Section: utils
+Maintainer: Arie Radle <arie.radle@gmail.com>
+Installed-Size: 8984
+Filename: pool/main/cantainer_0.0.4-1_amd64.deb
+Size: 2673204
+MD5sum: 34114d597a7c9a2c3e5094fd5d1868bc
+SHA1: 426de3afa122152efb43cc4c5a8696bf2d468a52
+SHA256: 05dbbfbe5a38a96a63c52e6cf2ea60b081df4f28771458cef11e17dee4ccc25f
+SHA512: 02580442eb4a6dc15b1dc33d7a5396b77b77a9607205b7d9d3fbfaac21ee7447901d78d6ab438bd023b7e1431b055d7b0f4192e3e9954f5f3c48efa94cb61312
+Homepage: https://github.com/cantainer/cantainer
+Description: Run every executable as a least-privilege capsule
+ Cantainer runs a program as a "cant": it can touch only what its manifest
+ declares and the files named on its command line. The kernel enforces this
+ with Landlock and seccomp. No daemon, no root. Installs the `cant` command.
+
